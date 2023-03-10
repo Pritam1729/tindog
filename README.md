@@ -1,4 +1,4 @@
-#Tindog
+Tindog- A Dog mating website
 
    Tindog is a start-up website specially made for dog mating. The Dog owner can bring the dog for mating. I have used simple html and css to build this website and made it's easy so that dog owner will not feel any difficulty in using this site.
     
